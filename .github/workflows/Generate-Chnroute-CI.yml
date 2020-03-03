@@ -12,10 +12,19 @@ on:
 jobs:
   build:
 
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-18.04
 
     steps:
     - uses: actions/checkout@master
+    
+    - name: Init build dependencies
+      env:
+        DEBIAN_FRONTEND: noninteractive
+      run: |
+        sudo -E apt-get update -y
+        sudo -E apt-get install -y aggregate
+        
+    - name: Build Stage1
       
     - name: Run generate script
       run: | 
