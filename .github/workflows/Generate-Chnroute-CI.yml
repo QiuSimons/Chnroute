@@ -24,8 +24,6 @@ jobs:
         sudo -E apt-get update -y
         sudo -E apt-get install -y aggregate
         
-    - name: Build Stage1
-      
     - name: Run generate script
       run: | 
         chmod +x ./chnroute.sh
