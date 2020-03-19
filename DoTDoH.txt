@@ -1,29 +1,30 @@
 speed-check-mode tcp:80,ping
 
-#²¹³ä
+#
+#è¡¥å……
 server-tls 223.5.5.5:853 -host-name dns.alidns.com
 server-tls 223.6.6.6:853 -host-name dns.alidns.com
 
-#¹úÄÚDOT DNS(Çë½«IP¼ÓÈë·­Ç½Èí¼ş°×Ãûµ¥
+#å›½å†…DOT DNS(è¯·å°†IPåŠ å…¥ç¿»å¢™è½¯ä»¶ç™½åå•
 server-tls 45.77.180.10:853 -host-name dns.containerpi.com
 
-#¹úÄÚDOH DNS(Çë½«ÓòÃû¼ÓÈë·­Ç½Èí¼ş°×Ãûµ¥
+#å›½å†…DOH DNS(è¯·å°†åŸŸååŠ å…¥ç¿»å¢™è½¯ä»¶ç™½åå•
 server-https https://dns.containerpi.com/dns-query
 server-https https://dns.rubyfish.cn/dns-query
 server-https https://i.233py.com/dns-query
 server-https https://neatdns.ustclug.org/resolve
 
-#º£ÍâDOT DNSÇÒÖ§³ÖECS(Çë½«IP¼ÓÈë·­Ç½Èí¼şºÚÃûµ¥
+#æµ·å¤–DOT DNSä¸”æ”¯æŒECS(è¯·å°†IPåŠ å…¥ç¿»å¢™è½¯ä»¶é»‘åå•
 server-tls 8.8.8.8:853 -host-name dns.google -group fq_dns -exclude-default-group
 server-tls 8.8.4.4:853 -host-name dns.google -group fq_dns -exclude-default-group
 server-tls 9.9.9.11:853 -host-name dns.quad9.net -group fq_dns -exclude-default-group
 
-#º£ÍâDOH DNSÇÒÖ§³ÖECS(Çë½«ÓòÃû¼ÓÈë·­Ç½Èí¼şºÚÃûµ¥
+#æµ·å¤–DOH DNSä¸”æ”¯æŒECS(è¯·å°†åŸŸååŠ å…¥ç¿»å¢™è½¯ä»¶é»‘åå•
 server-https https://dns.google/dns-query -group fq_dns -exclude-default-group
 server-https https://dns11.quad9.net/dns-query -group fq_dns -exclude-default-group
 server-https https://doh.opendns.com/dns-query -group fq_dns -exclude-default-group
 
-#ÆäËûº£ÍâDNS£¨Ä¬ÈÏÎ´ÆôÓÃ£¬É¾³ı¶ÔÓ¦ĞĞÇ°µÄ#ÒÔÆôÓÃ
+#å…¶ä»–æµ·å¤–DNSï¼ˆé»˜è®¤æœªå¯ç”¨ï¼Œåˆ é™¤å¯¹åº”è¡Œå‰çš„#ä»¥å¯ç”¨
 #server-tls 1.1.1.1:853 -host-name cloudflare-dns.com -group fq_dns -exclude-default-group
 #server-tls 1.0.0.1:853 -host-name cloudflare-dns.com -group fq_dns -exclude-default-group
 #server-tls 185.222.222.222:853 -host-name dns.sb -group fq_dns -exclude-default-group
