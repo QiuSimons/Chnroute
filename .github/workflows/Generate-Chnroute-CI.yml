@@ -23,14 +23,14 @@ jobs:
       run: |
         sudo -E apt-get update -y
         sudo -E apt-get install -y aggregate
-        sudo -E apt-get install -y nmap
         
     - name: Run generate script
       run: | 
         chmod +x ./chnroute.sh
         ./chnroute.sh
         rm -f ./update.txt
-        nmap -sL -n -iL ./dist/chnroute/chnroute.txt > ./dist/chnroute/chnroute_list.txt
+        chmod +x ./cidr-to-ip.sh
+        ./cidr-to-ip.sh -b ./dist/chnroute/chnroute.txt > ./dist/chnroute/chnroute_list.txt
         echo `date +%Y/%m/%d\ %H:%M:%S\ %Z` >> ./update.txt
       
     - name: Commit file
