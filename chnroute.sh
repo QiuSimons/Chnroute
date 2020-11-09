@@ -11,14 +11,17 @@ DIST_NAME_IPV6="$(basename $DIST_FILE_IPV6)"
 
 APNIC_URL="https://ftp.apnic.net/apnic/stats/apnic/delegated-apnic-latest"
 IPIP_URL="https://github.com/17mon/china_ip_list/raw/master/china_ip_list.txt"
+CLANG_URL="https://ispip.clang.cn/all_cn.txt"
 APNIC_LIST="apnic.txt"
 IPIP_LIST="ipip.txt"
+CLANG_LIST="clang.txt"
 
 function fetch_data() {
   cd $TMP_DIR
 
   curl -sSL -4 --connect-timeout 10 $APNIC_URL -o apnic.txt
   curl -sSL -4 --connect-timeout 10 $IPIP_URL -o ipip.txt
+  curl -sSL -4 --connect-timeout 10 $CLANG_URL -o clang.txt
 
   cd $CUR_DIR
 }
@@ -28,10 +31,12 @@ function gen_ipv4_chnroute() {
 
   local apnic_tmp="apnic.tmp"
   local ipip_tmp="ipip.tmp"
+  local clang_tmp="clang.tmp"
 
   cat apnic.txt | grep ipv4 | grep CN | awk -F\| '{ printf("%s/%d\n", $4, 32-log($5)/log(2)) }' > $apnic_tmp
   cat ipip.txt > $ipip_tmp
-  cat $apnic_tmp $ipip_tmp | aggregate -q > $DIST_NAME_IPV4
+  cat clang.txt > $clang_tmp
+  cat $apnic_tmp $ipip_tmp $clang_tmp | aggregate -q > $DIST_NAME_IPV4
 
   cd $CUR_DIR
 }
