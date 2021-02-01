@@ -70,3 +70,5 @@ gen_ipv4_chnroute
 gen_ipv6_chnroute
 dist_release
 clean_up
+curl -s https://purge.jsdelivr.net/gh/QiuSimons/Chnroute@master/dist/chnroute/chnroute.txt
+curl -s https://purge.jsdelivr.net/gh/QiuSimons/Chnroute/dist/chnroute/chnroute.txt
