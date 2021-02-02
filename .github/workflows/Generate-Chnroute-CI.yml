@@ -30,8 +30,9 @@ jobs:
         chmod +x ./chnroute.sh
         ./chnroute.sh
         rm -f ./update.txt
-        #chmod +x ./cidr-to-ip.sh
-        #./cidr-to-ip.sh -i ./dist/chnroute/chnroute.txt
+        chmod +x ./mapcidr
+        ./mapcidr -l ./dist/chnroute -o ./dist/TMP4.txt -sbh 65530
+        
         echo `date +%Y/%m/%d\ %H:%M:%S\ %Z` >> ./update.txt
       
     - name: Commit file
