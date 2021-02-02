@@ -32,7 +32,8 @@ jobs:
         rm -f ./update.txt
         chmod +x ./mapcidr
         ./mapcidr -l ./dist/chnroute -o ./dist/TMP4.txt -sbh 65530
-        
+        cat ./dist/TMP4.txt > ./dist/chnroute
+        rm -f ./dist/TMP4.txt
         echo `date +%Y/%m/%d\ %H:%M:%S\ %Z` >> ./update.txt
       
     - name: Commit file
