@@ -5,18 +5,22 @@ TMP_DIR=$(mktemp -d /tmp/chnroute.XXXXXX)
 
 DIST_FILE_IPV4="dist/chnroute/chnroute.txt"
 DIST_FILE_IPV6="dist/chnroute/chnroute-v6.txt"
+DIST_FILE_CHN="dist/chnroute/chinalist.txt"
 DIST_DIR="$(dirname $DIST_FILE_IPV4)"
 DIST_NAME_IPV4="$(basename $DIST_FILE_IPV4)"
 DIST_NAME_IPV6="$(basename $DIST_FILE_IPV6)"
+DIST_NAME_CHN="$(basename $DIST_FILE_CHN)"
 
 APNIC_URL="https://ftp.apnic.net/apnic/stats/apnic/delegated-apnic-latest"
 IPIP_URL="https://github.com/17mon/china_ip_list/raw/master/china_ip_list.txt"
 CLANG_URL="https://ispip.clang.cn/all_cn.txt"
 CHUNZHEN_URL="https://github.com/metowolf/iplist/raw/master/data/special/china.txt"
+CHINALIST_URL="https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf"
 APNIC_LIST="apnic.txt"
 IPIP_LIST="ipip.txt"
 CLANG_LIST="clang.txt"
 CHUNZHEN_LIST="chunzhen.txt"
+CHINALIST_LIST="chn.txt"
 
 function fetch_data() {
   cd $TMP_DIR
@@ -25,6 +29,7 @@ function fetch_data() {
   curl -sSL -4 --connect-timeout 10 $IPIP_URL -o ipip.txt
   curl -sSL -4 --connect-timeout 10 $CLANG_URL -o clang.txt
   curl -sSL -4 --connect-timeout 10 $CHUNZHEN_URL -o chunzhen.txt
+  curl -sSL -4 --connect-timeout 10 $CHINALIST_URL -o chn.txt
 
   cd $CUR_DIR
 }
@@ -54,10 +59,17 @@ function gen_ipv6_chnroute() {
   cd $CUR_DIR
 }
 
+function gen_chinalist() {
+  cd $TMP_DIR
+  cat chn.txt | sed '/^[[:space:]]*$/d' | sed '/^#/ d' | awk '{split($0, arr, "/"); print arr[2]}' | grep "\." | awk '!x[$0]++' > $DIST_NAME_CHN
+  cd $CUR_DIR
+}
+
 function dist_release() {
   mkdir -p $DIST_DIR
   cp $TMP_DIR/$DIST_NAME_IPV4 $DIST_FILE_IPV4
   cp $TMP_DIR/$DIST_NAME_IPV6 $DIST_FILE_IPV6
+  cp $TMP_DIR/$DIST_NAME_CHN $DIST_FILE_CHN
 }
 
 function clean_up() {
@@ -68,6 +80,7 @@ function clean_up() {
 fetch_data
 gen_ipv4_chnroute
 gen_ipv6_chnroute
+gen_chinalist
 dist_release
 clean_up
 curl -s https://purge.jsdelivr.net/gh/QiuSimons/Chnroute@master/dist/chnroute/chnroute.txt
