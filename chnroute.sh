@@ -75,7 +75,7 @@ function gen_chinalist() {
 
 function gen_gfwlist() {
   cd $TMP_DIR
-  cat gfw.txt gfd.txt | aggregate -q > $DIST_NAME_GFW
+  cat gfw.txt gfd.txt > $DIST_NAME_GFW
   cd $CUR_DIR
 }
 
