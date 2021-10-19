@@ -799,6 +799,7 @@ bwh1.net
 bwsj.hk
 bx.in.th
 bx.tl
+bybit.com
 bynet.co.il
 bypasscensorship.org
 c-est-simple.com
@@ -1118,6 +1119,7 @@ coin2co.in
 coinbene.com
 coinegg.com
 coinex.com
+coingecko.com
 coingi.com
 coinmarketcap.com
 coinrail.co.kr
@@ -1899,11 +1901,11 @@ frootvpn.com
 fscked.org
 fsurf.com
 ftchinese.com
-ftp.com
 ftp1.biz
 ftpserver.biz
 ftv.com.tw
 ftvnews.com.tw
+ftx.com
 fucd.com
 fuckcnnic.net
 fuckgfw.org
@@ -5156,6 +5158,7 @@ tumutanzi.com
 tumview.com
 tunein.com
 tunnelbear.com
+tunnelblick.net
 tunnelr.com
 tunsafe.com
 turansam.org
@@ -5556,6 +5559,7 @@ wahas.com
 waigaobu.com
 waikeung.org
 wailaike.net
+wainao.me
 waiwaier.com
 wallmama.com
 wallornot.org
@@ -5898,6 +5902,7 @@ xysblogs.org
 xyy69.com
 xyy69.info
 y2mate.com
+yadi.sk
 yahoo.com.hk
 yakbutterblues.com
 yam.com
