@@ -3705,6 +3705,7 @@ nordstrom.com
 nordstromimage.com
 nordstromrack.com
 nordvpn.com
+notepad-plus-plus.org
 notify.dropboxapi.com
 notion.so
 nottinghampost.com
@@ -4222,6 +4223,7 @@ raremovie.cc
 raremovie.net
 rateyourmusic.com
 rationalwiki.org
+raw.githack.com
 raw.githubusercontent.com
 rawgit.com
 rawgithub.com
