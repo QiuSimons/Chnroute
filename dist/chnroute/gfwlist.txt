@@ -1071,6 +1071,7 @@ clinica-tibet.ru
 clipfish.de
 cloakpoint.com
 cloud.mail.ru
+cloudflare-ipfs.com
 club1069.com
 clubhouseapi.com
 clyp.it
@@ -4103,6 +4104,7 @@ privateinternetaccess.com
 privatepaste.com
 privatetunnel.com
 privatevpn.com
+privoxy.org
 procopytips.com
 project-syndicate.org
 prosiben.de
