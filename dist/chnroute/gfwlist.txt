@@ -2095,6 +2095,7 @@ gongmeng.info
 gongminliliang.com
 gongwt.com
 goo.gl
+goo.gle
 goo.ne.jp
 gooday.xyz
 gooddns.info
@@ -2938,6 +2939,7 @@ jobnewera.wordpress.com
 jobso.tv
 joinclubhouse.com
 joinmastodon.org
+jornaldacidadeonline.com.br
 journalchretien.net
 journalofdemocracy.org
 joymiihub.com
@@ -2945,6 +2947,7 @@ joyourself.com
 jp.hao123.com
 jpl.nasa.gov
 jpopforum.net
+jsdelivr.net
 jtvnw.net
 jubushoushen.com
 juhuaren.com
@@ -3308,7 +3311,8 @@ megaproxy.com
 megarotic.com
 megavideo.com
 megurineluka.com
-meirixiaochao.com
+meizhong.blog
+meizhong.report
 meltoday.com
 meme.yahoo.com
 memehk.com
@@ -3331,6 +3335,7 @@ metafilter.com
 metart.com
 metarthunter.com
 meteorshowersonline.com
+metro.taipei
 metrohk.com.hk
 metrolife.ca
 metroradio.com.hk
@@ -3586,6 +3591,7 @@ netflav.com
 netflix.com
 netflix.net
 netme.cc
+netsarang.com
 netsneak.com
 network54.com
 networkedblogs.com
@@ -3848,6 +3854,7 @@ organharvestinvestigation.net
 organiccrap.com
 orgasm.com
 orgfree.com
+oricon.co.jp
 orient-doll.com
 orientaldaily.com.my
 orn.jp
@@ -3863,6 +3870,7 @@ oursogo.com
 oursteps.com.au
 oursweb.net
 ourtv.hk
+overcast.fm
 overdaily.org
 overplay.net
 oversea.istarshine.com
@@ -4587,6 +4595,7 @@ sohcradio.com
 sohfrance.org
 sokamonline.com
 sokmil.com
+solana.com
 solarsystem.nasa.gov
 solidaritetibet.org
 solidfiles.com
@@ -4892,6 +4901,7 @@ theconversation.com
 thedalailamamovie.com
 thediplomat.com
 thedw.us
+theepochtimes.com
 thefacebook.com
 thefrontier.hk
 thegay.com
@@ -5373,6 +5383,7 @@ urlparser.com
 us.to
 usacn.com
 usaip.eu
+uscnpm.org
 userapi.nytlog.com
 users.skynet.be
 usfk.mil
@@ -5780,7 +5791,6 @@ www.lamenhu.com
 www.lib.virginia.edu
 www.linksalpha.com
 www.m-sport.co.uk
-www.metro.taipei
 www.monlamit.org
 www.moztw.org
 www.nbc.com
