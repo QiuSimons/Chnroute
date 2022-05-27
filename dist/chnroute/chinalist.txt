@@ -908,7 +908,6 @@
 10min.club
 10moons.com
 10pkpk.com
-10qianwan.com
 10s1.com
 10sea.com
 10soo.com
@@ -1946,7 +1945,6 @@
 1mxian.com
 1n11.com
 1nami.com
-1news.cc
 1nongjing.com
 1nsou.com
 1nyz.com
@@ -5335,6 +5333,7 @@
 60mil.com
 60nm.com
 60tui.com
+60wr.com
 61.com
 61.life
 610115.com
@@ -5719,7 +5718,6 @@
 7068.cc
 7080edu.com
 7082.com
-708990.com
 70dh.com
 70dir.com
 70god.com
@@ -5928,6 +5926,8 @@
 77ebooks.com
 77hei.com
 77l.com
+77mh.app
+77mh.in
 77music.com
 77mv.com
 77nt.com
@@ -9054,7 +9054,6 @@ aoaob.com
 aoapp.com
 aobacore.com
 aobaishi.com
-aobo62.com
 aobosoft.com
 aoc.com
 aocde.com
@@ -15423,7 +15422,6 @@ cjdropshipping.com
 cjdx1.com
 cjeduw.com
 cjftb.com
-cjgcedu.com
 cjhb168.com
 cjhospital.com
 cjhxfund.com
@@ -20191,7 +20189,6 @@ dygang.com
 dygang.net
 dygangs.com
 dygf.com
-dygod.com
 dygod.org
 dyhhy.cc
 dyhjw.com
@@ -24851,6 +24848,7 @@ gqm168.com
 gqooh.com
 gqqsm.com
 gqsoso.com
+gqsou.com
 gqt168.com
 gqtpw.com
 gqyy8.com
@@ -29423,6 +29421,7 @@ ib-china.com
 ib07.com
 ibaba88.com
 ibadboy.net
+ibaiji.org
 ibailve.com
 ibaizhu.com
 ibanbu.com
@@ -34738,6 +34737,8 @@ knotesapp.com
 know88.com
 knowgive.com
 knowhow-china.com
+knowingclouds.com
+knowingcloudvip.com
 knowncoin.com
 knownpcb.com
 knownsec.com
@@ -36059,6 +36060,7 @@ lemonyd.com
 lemonyule.com
 lemote.com
 lempstack.com
+lengcat.com
 lenget.com
 lenggirl.com
 lengqing.org
@@ -38432,6 +38434,7 @@ maobotv.com
 maobugames.com
 maodou.com
 maodouapp.com
+maoercdn.com
 maoerduo2018.com
 maoflag.net
 maofly.com
@@ -39291,6 +39294,7 @@ midymidy.com
 miecod.com
 miejw.com
 miemie.la
+mier123.com
 miercn.com
 mierhuo.com
 mieseng.com
@@ -41490,7 +41494,6 @@ njzztyl.com
 nk84.com
 nkp969.com
 nkscdn.com
-nktaba.com
 nktxv.com
 nky556.com
 nkyp.com
@@ -43757,7 +43760,6 @@ porschesky.com
 portablesoft.org
 portalcdn.cdnetworks.com
 ports-intl.com
-pos.gold
 posbar.com
 poseidon.dl.playstation.net
 poseidong.com
@@ -43888,6 +43890,7 @@ ppxclub.com
 ppxhw.com
 ppxs.net
 ppxwo.com
+ppym.xyz
 ppys.net
 ppys5.com
 ppzhan.com
@@ -44129,7 +44132,6 @@ px5a.com
 pxb7.com
 pxcn168.com
 pxemba.com
-pxr0.com
 pxtsc.com
 pxtu.com
 pxtx.com
@@ -49671,6 +49673,7 @@ someet.cc
 someibo.com
 somepen.com
 something8.com
+sometracking.com
 somo.so
 somode.com
 somsds.com
@@ -50179,7 +50182,6 @@ stc2002.com
 stcmcu.com
 stcmcudata.com
 stcn.com
-stcpsm.com
 stcv66.com
 stdaily.com
 stdard.com
@@ -51238,6 +51240,7 @@ taaas.org
 tabalt.net
 tachangxing.com
 taclsc.org
+tactan.net
 tadseeker.com
 tadu.com
 taeapp.com
@@ -52170,7 +52173,6 @@ tianqihoubao.com
 tianqijun.com
 tianqikb.com
 tianqistatic.com
-tianqiwang.org
 tianrow.com
 tianruixinxi.com
 tianruiyun.com
@@ -52372,6 +52374,7 @@ tingroom.com
 tingshubao.com
 tingshuge.com
 tingtao.net
+tingxiangzu.com
 tingyulou.com
 tingyun.com
 tingyutech.net
@@ -53849,6 +53852,7 @@ ucicq.com
 ucjoy.com
 uckendo.com
 ucloudgda.com
+ucloudnaming.info
 ucly.net
 ucnano.com
 ucnest.com
@@ -54828,6 +54832,7 @@ vipshop.com
 vipshopyao.com
 vipsinaapp.com
 vipsmt.com
+vipsrc.com
 vipstatic.com
 vipstore.com
 viptail.com
@@ -55197,6 +55202,7 @@ w1365.com
 w18.net
 w1989.com
 w20.net
+w2008.store
 w218.com
 w2bc.com
 w2fzu.com
@@ -60871,7 +60877,6 @@ ybs120.com
 ybscjp.com
 ybtong.com
 ybtvyun.com
-ybtzjt.com
 ybvipdns.com
 ybvv.com
 ybword.com
@@ -64113,6 +64118,7 @@ zhangjunbk.com
 zhangkai.red
 zhangle.com
 zhangli2015.com
+zhanglijie.work
 zhangliziyun.com
 zhangluya.com
 zhanglvtong.com
@@ -65687,6 +65693,7 @@ zppk.net
 zppop.com
 zppxba.com
 zptong.com
+zptq.com
 zpzyb.com
 zq12369.com
 zq235.com
