@@ -1051,7 +1051,6 @@
 1234.cx
 1234001.com
 123456.la
-123456789.tv
 123456img.com
 12345good.com
 12345good.net
@@ -1796,7 +1795,6 @@
 1cnmedia.com
 1cno.com
 1d1d100.com
-1d9z.com
 1dao99.com
 1dfa.com
 1diaocha.com
@@ -20977,7 +20975,6 @@ ettshop.com
 etu6.com
 etuan.com
 etudu.com
-etuonet.com
 etycx.com
 etyy.com
 etyyy.com
@@ -23400,7 +23397,6 @@ gdvolunteer.net
 gdwca.com
 gdwlgp.com
 gdwlife.com
-gdxgt.com
 gdxxb.com
 gdyjs.com
 gdysdz.com
@@ -24109,7 +24105,6 @@ goo17.com
 gooagoo.com
 gooann.com
 good-display.com
-good-fine.com
 good-import.com
 good.cc
 good1230.com
@@ -27834,7 +27829,6 @@ huanleap.com
 huanlecdn.com
 huanlefish.com
 huanleguang.com
-huanlejia.vip
 huanletang.com
 huanlingxiuxian.com
 huanlj.com
@@ -29607,7 +29601,6 @@ ilaisa.com
 ilaitui.com
 ilancai.com
 ilanluo.com
-ilanx.net
 ilanx0.net
 ilanzou.com
 ilaw66.com
@@ -35356,7 +35349,6 @@ lejian.com
 lejianweike.com
 lejiaolexue.com
 lejj.com
-lejlb.com
 leju.com
 lejucaifu.com
 lejuliang.com
@@ -41607,7 +41599,6 @@ opython.com
 oq78.com
 oqss.com
 or-sun.com
-oracledatabase12g.com
 oradbca.com
 oraev.com
 oralpractice.com
@@ -42419,7 +42410,6 @@ phaser-china.com
 phb123.com
 phdwu.com
 phedu.net
-phenixos.com
 phezzan.com
 phida.net
 philipswechat.com
@@ -45374,7 +45364,6 @@ rexueqingchun.com
 reyinapp.com
 reyoo.com
 reyun.com
-rezhishi.net
 rf-gsm.com
 rf.hk
 rf.tm
@@ -48219,7 +48208,6 @@ sinostargroup.com
 sinosteel.com
 sinotf.com
 sinotn.com
-sinotone.cc
 sinotone.net
 sinotrans.com
 sinovale.com
@@ -52502,6 +52490,7 @@ tujie8.com
 tujiedianying.com
 tujiwar.com
 tujixiazai.com
+tuke8.com
 tuke88.com
 tukexw.com
 tukkk.com
@@ -54096,7 +54085,6 @@ vooec.com
 voole.com
 voole.net
 voora.net
-voovle.net
 voovlive.com
 voovmeeting.com
 vortexfun.com
@@ -59108,7 +59096,6 @@ xueanquan.com
 xueba100.com
 xuebalib.com
 xuebingsi.com
-xuebuyuan.com
 xuecaijie.com
 xuecan.net
 xuechebu.com
@@ -65227,7 +65214,6 @@ zzxy.net
 zzyb.org
 zzydb.com
 zzyedu.org
-zzyichen.net
 zzyiquan.com
 zzyjsmba.com
 zzyyrl.com
