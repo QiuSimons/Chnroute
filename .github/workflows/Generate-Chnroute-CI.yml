@@ -31,7 +31,7 @@ jobs:
         ./chnroute.sh
         rm -f ./update.txt
         chmod +x ./mapcidr
-        ./mapcidr -l ./dist/chnroute/chnroute.txt -o ./dist/chnroute/TMP4.txt -sbh 65530
+        ./mapcidr -cl ./dist/chnroute/chnroute.txt -o ./dist/chnroute/TMP4.txt -aa
         cat ./dist/chnroute/TMP4.txt > ./dist/chnroute/chnroute.txt
         rm -f ./dist/chnroute/TMP4.txt
         echo `date +%Y/%m/%d\ %H:%M:%S\ %Z` >> ./update.txt
