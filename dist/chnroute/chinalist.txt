@@ -19608,6 +19608,7 @@ e2capp.com
 e2esoft.com
 e2say.com
 e360e.com
+e360xs.com
 e365.org
 e365mall.com
 e3cloud.com
@@ -34183,6 +34184,7 @@ kuman56.com
 kumankeji.net
 kumaoyun.com
 kumifeng.com
+kunduo.com
 kunfpuz.com
 kungfucloud.com
 kungfuenglish.com
@@ -40071,7 +40073,6 @@ nfwin.com
 nfyk.com
 nfzhouyi.com
 nfzmbrand.com
-nfzplus.com
 ng-alain.com
 nga.wiki
 ngabbs.com
@@ -45919,6 +45920,7 @@ scqcp.com
 scqiuchang.com
 scrcu.com
 scrdzf.com
+scredcross.com
 scriptjc.com
 scrmtech.com
 scrsw.net
@@ -47016,6 +47018,7 @@ shinewing.com
 shineyie.com
 shinianonline.com
 shiningmidas.com
+shiningnew.com
 shinnytech.com
 shinsoukun.com
 shinycg.com
@@ -54330,7 +54333,6 @@ wdstory.com
 wdszb.com
 wdtlfj.com
 wduw.com
-wdw6.com
 wdw88.com
 wdxmzy.com
 wdxtub.com
@@ -57973,6 +57975,7 @@ xitongtu.net
 xitongwanjia.com
 xitongxz.net
 xitongzhijia.net
+xitongzu.com
 xitouwang.com
 xitu.io
 xituan.com
@@ -58196,7 +58199,6 @@ xltrip.com
 xltzgy.com
 xluos.com
 xlwxsw.com
-xlxzikao.com
 xlylf.com
 xlyouxi.com
 xlys1904.com
@@ -60117,6 +60119,7 @@ yishuzi.com
 yishuzi.org
 yishuziti.com
 yisier.com
+yisocms.com
 yisou.com
 yisouti.com
 yisouyifa.com
@@ -61708,6 +61711,7 @@ yx-g.com
 yx-life.com
 yx-s.com
 yx-s.net
+yx007.com
 yx0599.com
 yx090.com
 yx10011.com
@@ -63053,6 +63057,7 @@ zhongan.io
 zhonganfengshang.com
 zhonganinfo.com
 zhongbaounion.com
+zhongbenkeji.com
 zhongbingtongxin.com
 zhongbowenwu.com
 zhongboxinwen.com
