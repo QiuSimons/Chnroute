@@ -6106,7 +6106,6 @@
 8tupian.com
 8twan.com
 8u58.com
-8uka.com
 8uyx.com
 8wan.com
 8win.net
@@ -8474,6 +8473,7 @@ aobosoft.com
 aocde.com
 aocdn.com
 aoch.com
+aochengcdn.com
 aoclia.com
 aocslb.com
 aodabo.tech
@@ -17463,7 +17463,6 @@ dechua.com
 decorcn.com
 decwhy.com
 dede168.com
-dedeapps.com
 dedecms.com
 dedecmsplus.com
 dededao.com
@@ -41177,7 +41176,6 @@ panabit.com
 panasonicmall.com
 panchuang.net
 panda-home.com
-panda321.com
 panda98.com
 pandadastudio.com
 pandafoundation.org
@@ -47422,7 +47420,6 @@ siwaman.com
 siwazywcdn2.com
 siwazywcdn3.com
 siwazywimg.com
-siwei.me
 siweidaotu.com
 siweiearth.com
 siweikongjian.net
@@ -55561,7 +55558,6 @@ wslmf.com
 wsloan.com
 wsltt.com
 wsmaoyi.com
-wsmaoyi.net
 wsonh.com
 wsound.cc
 wsoversea.info
@@ -60719,6 +60715,7 @@ yuebagu.com
 yuebei.vip
 yuebingcheng.com
 yuebooemt.com
+yuecdn.net
 yuecheng.com
 yuedaoec.com
 yuedisk.com
@@ -60759,6 +60756,7 @@ yueru.com
 yuesuoping.com
 yuetu.tech
 yuetutu.com
+yuetuvip.com
 yuetuvip.net
 yuetx.cc
 yueweimusic.com
@@ -61170,7 +61168,6 @@ yuzhuan.com
 yuzhulin.com
 yuzi.net
 yuzvf.com
-yveqi.com
 yvv.in
 yvzfgigpiwmofux.com
 yw11.com
@@ -61243,7 +61240,6 @@ yxfwai.com
 yxhenan.com
 yxhhdl.com
 yxhi.com
-yxhjt.com
 yxhqj.com
 yxi.cc
 yxiangzu.com
