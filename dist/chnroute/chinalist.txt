@@ -272,7 +272,6 @@
 0430.com
 0431cn.com
 0437.com
-0448w.com
 0452e.com
 0453.com
 0455zd.com
@@ -1882,6 +1881,7 @@
 202m.com
 202wan.com
 2048sj.com
+2049baby.com
 205.com
 2080ly.com
 208xs.com
@@ -15033,7 +15033,6 @@ cn.bing.com
 cn.bing.net
 cn.msi.com
 cn.net
-cn.pandora.net
 cn.vc
 cn.vu
 cn.windowssearch.com
@@ -17101,6 +17100,7 @@ dangtianle.com
 dangwan.com
 dangzhi.com
 dangzhi.net
+dangzhu.net
 danhua.org
 danhuaer.com
 daniao.org
@@ -17184,7 +17184,6 @@ daovoice.io
 daoxiangcun.com
 daoxila.com
 daoxila.net
-daoyouz.com
 daoyu8.com
 daozhao.com
 dapaizixun.com
@@ -23251,7 +23250,6 @@ gh8s.com
 ghatg.com
 ghboke.com
 ghgy.com
-ghgy.net
 ghibliwiki.org
 ghjie.com
 ghlawyer.net
@@ -27915,6 +27913,7 @@ hurun.net
 husenji.com
 hushangcaifu.com
 hushuang.me
+husiyang.com
 hust-laser.com
 hust-snde.com
 hust-wuxi.com
@@ -29340,7 +29339,6 @@ imipy.com
 imitui.com
 imixpark.com
 imjiayin.com
-imkerwin.com
 imkevinyang.com
 imkira.com
 imlaidian.com
@@ -30626,7 +30624,6 @@ jdzbth.com
 jdzdeyy.com
 jdzeduyun.com
 jdzj.com
-jdzjdz.com
 jdzmc.com
 jdzol.com
 jdzol.net
@@ -34199,6 +34196,7 @@ ky107.co
 ky151.co
 ky55005.com
 ky5yx.com
+ky7yx.com
 ky958.com
 kybapp.com
 kybapp.net
@@ -41615,6 +41613,7 @@ paymax.cc
 paympay.com
 payrao.com
 paysapi.com
+paytbf.com
 payxinyi.com
 pb114.xyz
 pb89.com
@@ -42845,7 +42844,6 @@ pzpu.com
 q-alumni.com
 q-dazzle.com
 q-supreme.com
-q0760.com
 q1.com
 q1qfc323.com
 q1qq2.com
@@ -43766,6 +43764,7 @@ qmconfig.com
 qmei.me
 qmei.vip
 qmf3.cc
+qmhd87.com
 qmht.com
 qmht.mobi
 qmiaomh.com
@@ -49367,6 +49366,7 @@ sxldns.com
 sxmaps.com
 sxmcwlw.com
 sxmtdz.com
+sxmxwh.com
 sxmyh.com
 sxncb.com
 sxnfss.com
@@ -51726,7 +51726,6 @@ tsybsmz.com
 tsyqb.com
 tsyvps.com
 tsyzm.com
-tsz.com
 tszckj.com
 tszhjk.com
 tszyzx.com
@@ -53788,6 +53787,7 @@ waerfa.com
 waf.cdnetworks.com
 wafcn.com
 wafunny.com
+wafzi.com
 waheaven.com
 wahlap.com
 wahongyu.com
@@ -54397,7 +54397,6 @@ weica.net
 weicaifu.com
 weicewang.com
 weichaishi.com
-weichen.org
 weicher-sz.com
 weiclicai.com
 weico.cc
@@ -55069,7 +55068,6 @@ whptc.org
 whpx.net
 whqcbj.com
 whqhyg.com
-whqiansou027.com
 whqtdjy.com
 whqunyu.com
 whqywl.com
@@ -61497,6 +61495,7 @@ yushunews.com
 yusi.com
 yusi.tv
 yusi123.com
+yutai365.com
 yutaoyouxi.com
 yuteng.site
 yutennet.com
