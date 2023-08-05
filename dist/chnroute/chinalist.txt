@@ -6229,7 +6229,6 @@
 91985.com
 91ac.com
 91act.com
-91aliyun.com
 91all.net
 91anjian.com
 91art.net
@@ -8823,6 +8822,7 @@ arefly.com
 ares.dl.playstation.net
 arestech-sz.com
 areweloongyet.com
+arfans.com
 arhieason.com
 arhoo.com
 ariesmob.com
@@ -10185,6 +10185,7 @@ bendi5.com
 bendibao.com
 bendiso.com
 bendiw.cc
+bendizhidao.com
 benduo.net
 benellimotor.com
 bengbeng.com
@@ -26193,6 +26194,7 @@ hi2000.com
 hi2000.net
 hiaal.com
 hiagr.com
+hiaiabc.com
 hiapk.com
 hiavr.com
 hibea.com
@@ -31981,7 +31983,6 @@ jpanj.com
 jpbeta.net
 jpchinapress.com
 jpeen.com
-jpegonline.com
 jperation.com
 jpg.cm
 jpggod.com
@@ -38502,6 +38503,7 @@ moboplayer.com
 mobotap.com
 mobring.co
 mobrtb.com
+mobsurl.com
 mobtou.com
 mobvoi.com
 mocache.com
@@ -38925,6 +38927,7 @@ mtcop.com
 mtcsys.com
 mtcx99.com
 mtcxsw.com
+mtcxx.com
 mtdpai.com
 mtdpgame.com
 mtedu.com
@@ -39292,6 +39295,7 @@ mypcrun.com
 mypethome.com
 mypian.com
 mypiao.com
+mypiaojia.com
 mypitaya.com
 mypity.com
 mypm.net
@@ -54177,6 +54181,7 @@ wdlny.com
 wdmcake.com
 wdmuz.com
 wdodo.com
+wdomob.com
 wdres.com
 wdsrc.com
 wdstory.com
@@ -56807,6 +56812,7 @@ xhpfw.com
 xhpiano.com
 xhqqt.com
 xhscdn.com
+xhscdn.net
 xhsd.com
 xhslink.com
 xhsyww.com
@@ -60143,6 +60149,7 @@ ykq.ink
 ykqnl.com
 ykread.com
 yks365.com
+yksdks.com
 yksq.net
 ykstarshine.com
 yksuit.com
