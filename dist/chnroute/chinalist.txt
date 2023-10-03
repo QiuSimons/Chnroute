@@ -1885,7 +1885,6 @@
 21cn.com
 21cn.net
 21cnev.com
-21cnimg.com
 21cnjy.com
 21cnjy.net
 21cnsungate.com
@@ -2073,7 +2072,6 @@
 23qb.net
 23qun.com
 23sk.com
-23tgo.com
 23txt.com
 23us.so
 23us.tv
@@ -3290,6 +3288,7 @@
 474b.com
 4765.com
 4779.com
+477zw.com
 47819.com
 47gs.com
 47test.com
@@ -7552,7 +7551,6 @@ aimei39.com
 aimeicity.com
 aimeideni.com
 aimeike.tv
-aimeit.com
 aimingtai.com
 aimipay.net
 aimiplay.com
@@ -9767,7 +9765,6 @@ bbs1x.net
 bbsaso.com
 bbsds.com
 bbsheji.com
-bbshuwu.com
 bbsls.net
 bbsmax.com
 bbsnet.com
@@ -10381,7 +10378,6 @@ bilibili.com
 bilibiligame.net
 bilibilihelper.com
 bilibilijj.com
-bilibilis0.one
 bilicdn1.com
 bilicdn2.com
 bilicomic.com
@@ -13059,7 +13055,6 @@ chaoxin.com
 chaoxing.com
 chaoyi996.com
 chaoyindj.com
-chaoyinfastcdnbestcdn.vip
 chaoyisy.com
 chaoyuesd.com
 chaoyuyun.com
@@ -15383,7 +15378,6 @@ cobenet.com
 cocas.cc
 coccccc.cc
 cocimg.com
-cocinacieloverde.com
 coco413.com
 cocoachina.com
 cocodiy.com
@@ -22824,6 +22818,7 @@ getlema.com
 getmarkman.com
 getquicker.net
 getsurfboard.com
+getu.fun
 getui.com
 getui.net
 getui.vip
@@ -25060,7 +25055,6 @@ hb-green.com
 hb-hengda.com
 hb-ly.com
 hb-ws.com
-hb-wtw.com
 hb10000.com
 hb10000sale.com
 hb110.cc
@@ -25533,7 +25527,6 @@ helijia.com
 helingqi.com
 helishun.com
 heliuyan.com
-hello-algo.com
 hello-inc.com
 hello1010.com
 hellobanma.com
@@ -31252,7 +31245,6 @@ jjisp.com
 jjj.ee
 jjj802.com
 jjjaaa.com
-jjjg.co
 jjjoystudios.com
 jjjsgczbtb.com
 jjkeq.com
@@ -32315,7 +32307,6 @@ k125.com
 k12zx.com
 k165.com
 k18.com
-k18882.com
 k1u.com
 k2ma.com
 k2os.com
@@ -34833,7 +34824,6 @@ lifetmt.com
 lifevc.com
 lifevccdn.com
 lifeweeker.com
-lifeweekly.cc
 lifeyk.com
 lifox.net
 lifushop.com
@@ -35721,7 +35711,6 @@ loubobooo.com
 louding.com
 louge.ltd
 louislivi.com
-louisvv.com
 loukee.com
 loukky.com
 loulansheji.com
@@ -37501,7 +37490,6 @@ midust.com
 midway.run
 midwayjs.org
 miecod.com
-miejw.com
 miemie.la
 miercn.com
 mieseng.com
@@ -39999,7 +39987,6 @@ nxin.com
 nxist.com
 nxit.us
 nxly766.com
-nxnet.net
 nxnews.net
 nxnjw.com
 nxnresearch.com
@@ -40319,7 +40306,6 @@ onceai.com
 onceoa.com
 onche.net
 oncity.cc
-ondeals.net
 one-all.com
 one-netbook.com
 one918.com
@@ -42783,7 +42769,6 @@ qiman5.com
 qiman6.com
 qimao.com
 qimaomh.com
-qimengshangwu.com
 qimhua.com
 qimi.com
 qimiaomh.com
@@ -48075,7 +48060,6 @@ stardoctor.com
 starduster.me
 starfivetech.com
 stargame.com
-staridc.net
 starlight-generator.com
 starlott.com
 starming.com
@@ -48902,7 +48886,6 @@ szcompare.com
 szcp.com
 szcsot.com
 szcssx.com
-szcsw.com
 szcua.org
 szcwdz.com
 szcy99.com
@@ -50209,7 +50192,6 @@ time-year.com
 time.izatcloud.net
 timecoo.com
 timedg.com
-timenote.cc
 timeofdate.com
 timeoutbeijing.com
 timeoutcn.com
@@ -52928,6 +52910,7 @@ vurl.link
 vurl3.vip
 vutimes.com
 vux.li
+vuz.me
 vv8.com
 vv881.com
 vv8yx.com
@@ -53426,7 +53409,6 @@ wayhu8.com
 waynetechs.com
 wayos.com
 wayoulegal.com
-wayoutv.com
 wayoxi.com
 waytit.com
 wayzim.com
@@ -54918,7 +54900,6 @@ wonote.com
 wonpearl.com
 wonplug.net
 wonse.info
-wonxun.net
 woo.im
 wooaii.com
 woocg.com
@@ -57561,7 +57542,6 @@ xskhome.com
 xslb.me
 xsm818.com
 xsmaofa.com
-xsmnews.com
 xsmore.com
 xsmy54s.com
 xsnsyh.com
@@ -61038,7 +61018,6 @@ zaijiawan.com
 zailouxia.com
 zaiminglvsuo.com
 zainanjing365.com
-zaisd.com
 zaitong.net
 zaiwai.com
 zaixian-fanyi.com
