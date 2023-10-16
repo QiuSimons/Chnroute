@@ -3713,7 +3713,6 @@
 51kik.com
 51kim.com
 51kt.com
-51ktbyte.com
 51kupai.com
 51kupin.com
 51kywang.com
@@ -7696,6 +7695,7 @@ aiyingshi.com
 aiykj.com
 aiyou.com
 aiyoumi.com
+aiyouzj.com
 aiyoweia.com
 aiysm.com
 aiyuangong.com
@@ -17106,6 +17106,7 @@ dbgeek.org
 dbh123.net
 dbkan.com
 dblgf.com
+dbljj.com
 dbm-sh.com
 dbmailserver.com
 dbmall.com
@@ -18147,7 +18148,6 @@ dnsdizhi.com
 dnse0.com
 dnse1.com
 dnsfamily.com
-dnsfang.com
 dnsff.com
 dnsfwq.com
 dnsgtm.com
@@ -18932,7 +18932,6 @@ dwmoniqi.com
 dwntme.com
 dwnxy.com
 dwq.com
-dwqcw.com
 dwrh.net
 dwsedu.com
 dwstatic.com
@@ -24179,6 +24178,7 @@ gzhkl.com
 gzhotelgroup.com
 gzhphb.com
 gzhtinfo.com
+gzhttp.com
 gzhuake.cc
 gzhuojia.com
 gzhxpw.com
@@ -24643,7 +24643,6 @@ hanjiaying.com
 hanjie.biz
 hanjjl.com
 hanju-tv.org
-hanjutiantang.com
 hanjutv.com
 hanjutv.me
 hanjutvaa.com
@@ -31356,7 +31355,6 @@ jnwenlian.com
 jnyestar.com
 jnzcsyj.com
 jnzfwz.com
-jnzixun.com
 jnzycw.com
 jo43.com
 joaquinchou.com
@@ -32305,7 +32303,6 @@ kaikeba.com
 kailing.pub
 kaimanhua.com
 kaimg.com
-kaimigou.com
 kaipan88.com
 kaipanla.com
 kaiqiancq.com
@@ -35737,7 +35734,6 @@ ls-gb.com
 ls.link
 ls0513.com
 ls1018.com
-ls12.me
 ls666.com
 lsbankchina.com
 lsbchina.com
@@ -36640,6 +36636,7 @@ maple-game.com
 maplef.net
 mapmapping.com
 mappn.com
+maqingbo.com
 maqingxi.com
 maqinnews.com
 mararun.com
@@ -37524,7 +37521,6 @@ mindmanagerchina.com
 mindmapper.cc
 mindmeters.com
 mindmm.com
-mindopu.com
 mindpin.com
 mindray.com
 minecraftxz.com
@@ -37823,6 +37819,7 @@ mmy.la
 mmybt.com
 mmycdn.com
 mmyfilm.com
+mmzcn.com
 mmzh.com
 mn-soft.com
 mnancheng.com
@@ -38969,7 +38966,6 @@ nbhao.org
 nbhky.com
 nbimer.com
 nbimg.com
-nbjhawl.com
 nbjlw.com
 nbjnw.com
 nbjzjn.com
@@ -39714,7 +39710,6 @@ nows.fun
 nowscore.com
 nowshipin.com
 nowxz.com
-nowyingshi.com
 noxgroup.com
 noxue.com
 noxxxx.com
@@ -39927,7 +39922,6 @@ nz998.com
 nzbdw.com
 nzchina.com
 nzsiteres.com
-nzw-china.com
 nzwgs.com
 o--o.win
 o-netcom.com
@@ -40049,7 +40043,6 @@ officese.com
 officesoftcn.com
 officeweb365.com
 officewj.com
-officexr.com
 officezhushou.com
 officezu.com
 offodd.com
@@ -41257,7 +41250,6 @@ phpstudy.net
 phpv.net
 phpvar.com
 phpvod.com
-phpweb.net
 phpweblog.net
 phpxs.com
 phpyun.com
@@ -42081,7 +42073,6 @@ py1080p.com
 py1314.com
 py168.com
 py3study.com
-py6.com
 py94.com
 pyadx.com
 pyasfunds.com
@@ -42452,7 +42443,6 @@ qianjiapp.com
 qianjiayue.com
 qianjin5.com
 qianjing.com
-qianjins.com
 qianju.org
 qianka.com
 qianliao.net
@@ -42535,7 +42525,6 @@ qiaozuji.com
 qiaqa.com
 qiaqiafood.com
 qiawei.com
-qibaodx.com
 qibazaixian.com
 qibingdaojia.com
 qibo168.com
@@ -45475,7 +45464,6 @@ sfbest.com
 sfccn.com
 sfcdn.org
 sfddj.com
-sfdkj.com
 sfefqwq3.com
 sfgj.org
 sfgy.org
@@ -46295,6 +46283,7 @@ shoudian.info
 shoudian.org
 shouduit.com
 shoudurc.com
+shoufaw.com
 shoufm.com
 shougongke.com
 shouhoubang.com
@@ -46742,7 +46731,6 @@ silkpresent.com
 silkroadtechnologies.com
 silksong.me
 sillydong.com
-silu020.com
 silucar.com
 silucg.com
 siludao.com
@@ -48029,7 +48017,6 @@ sthforme.com
 sthifi.com
 sthke.com
 sticksgame.com
-stjfw.net
 stkey.win
 stklt.com
 stlswm.com
@@ -48174,7 +48161,6 @@ sudupower.net
 sudusite.com
 sueflower.com
 sueon.com
-sufa168.com
 sufangxu.com
 sufeinet.com
 sufont.com
@@ -51739,7 +51725,6 @@ umihome.com
 umilu.com
 umindex.com
 uminehotel.com
-umineiot.com
 uminsky.com
 umiwi.com
 umjicanvas.com
@@ -52856,7 +52841,6 @@ vzhuo.com
 vzhushou.com
 vzidc.com
 vzkoo.com
-vzmapp.com
 vzuu.com
 w-e.cc
 w-w-j-d.com
@@ -54198,7 +54182,6 @@ whsql.org
 whsqsoft.com
 whsrc.com
 whssxpx.com
-whsunmap.com
 whsw.net
 whsy.org
 whsyy.net
@@ -57356,7 +57339,6 @@ xqras.asia
 xqsbw.com
 xqship.com
 xqtesting.com
-xqwww.com
 xqyk024.com
 xqypay.com
 xrcch.com
@@ -58788,7 +58770,6 @@ yilongnews.com
 yilongtv.com
 yilule.com
 yilumh.com
-yiluzhuanqian.com
 yiluzouhao.com
 yilvcheng.com
 yimaoip.com
@@ -58808,7 +58789,6 @@ yimidida.com
 yimihaodi.com
 yimin.biz
 yimin168.com
-yimincaifu.com
 yiminchaoshi.com
 yimingkeji.net
 yimingzhi.net
@@ -58836,7 +58816,6 @@ yinduzx.com
 yineitong.com
 yinfeiy.com
 ying-ji.com
-yingbar.com
 yingbei365.com
 yingbio.com
 yingbishufa.com
@@ -62221,7 +62200,6 @@ zhulogic.com
 zhulong.com
 zhulongjiang.com
 zhulu86.com
-zhume.com
 zhumengwl.com
 zhumu.me
 zhuna.net
