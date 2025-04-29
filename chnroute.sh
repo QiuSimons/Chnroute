@@ -17,6 +17,8 @@ APNIC_URL="https://ftp.apnic.net/apnic/stats/apnic/delegated-apnic-latest"
 IPIP_URL="https://github.com/17mon/china_ip_list/raw/master/china_ip_list.txt"
 CLANG_URL="https://ispip.clang.cn/all_cn.txt"
 CHUNZHEN_URL="https://github.com/metowolf/iplist/raw/master/data/special/china.txt"
+GAOYIFAN_URL="https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/china.txt"
+GAOYIFAN_V6_URL="https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/china6.txt"
 CHINALIST_URL="https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf"
 GFW_URL="https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/gfw.txt"
 GFD_URL="https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/greatfire.txt"
@@ -35,6 +37,8 @@ function fetch_data() {
   curl -sSL -4 --connect-timeout 10 $IPIP_URL -o ipip.txt
   curl -sSL -4 --connect-timeout 10 $CLANG_URL -o clang.txt
   curl -sSL -4 --connect-timeout 10 $CHUNZHEN_URL -o chunzhen.txt
+  curl -sSL -4 --connect-timeout 10 $GAOYIFAN_URL -o gaoyifan.txt
+  curl -sSL -4 --connect-timeout 10 $GAOYIFAN_V6_URL -o gaoyifan_v6.txt
   curl -sSL -4 --connect-timeout 10 $CHINALIST_URL -o chn.txt
   curl -sSL -4 --connect-timeout 10 $GFW_URL -o gfw.txt
   curl -sSL -4 --connect-timeout 10 $GFD_URL -o gfd.txt
@@ -49,21 +53,25 @@ function gen_ipv4_chnroute() {
   local ipip_tmp="ipip.tmp"
   local clang_tmp="clang.tmp"
   local chunzhen_tmp="chunzhen.tmp"
+  local gaoyifan_tmp="gaoyifan.tmp"
 
   cat apnic.txt | grep ipv4 | grep CN | awk -F\| '{ printf("%s/%d\n", $4, 32-log($5)/log(2)) }' > $apnic_tmp
   cat ipip.txt > $ipip_tmp
   cat clang.txt > $clang_tmp
   cat chunzhen.txt > $chunzhen_tmp
-  cat $apnic_tmp $ipip_tmp $clang_tmp $chunzhen_tmp | aggregate -q > $DIST_NAME_IPV4
+  cat gaoyifan.txt > $gaoyifan_tmp
+  cat $apnic_tmp $ipip_tmp $clang_tmp $chunzhen_tmp $gaoyifan_tmp | aggregate6 -4 > $DIST_NAME_IPV4
 
   cd $CUR_DIR
 }
 
 function gen_ipv6_chnroute() {
   cd $TMP_DIR
-
-  cat apnic.txt | grep ipv6 | grep CN | awk -F\| '{ printf("%s/%d\n", $4, $5) }' > $DIST_NAME_IPV6
-
+  local apnic6_tmp="apnic6.tmp"
+  local gaoyifan6_tmp="gaoyifan6.tmp"
+  cat apnic.txt | grep ipv6 | grep CN | awk -F\| '{ printf("%s/%d\n", $4, $5) }' > $apnic6_tmp
+  cat gaoyifan_v6.txt > $gaoyifan6_tmp
+  cat $apnic6_tmp $gaoyifan6_tmp | aggregate6 -6 > $DIST_NAME_IPV6
   cd $CUR_DIR
 }
 

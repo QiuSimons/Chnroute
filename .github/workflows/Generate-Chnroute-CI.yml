@@ -3,6 +3,7 @@ name: Generate-Chnroute-CI
 on:
   schedule:
     - cron: 0 16 * * *
+  workflow_dispatch:
   watch:
     types: [started]
   #push:
@@ -23,7 +24,7 @@ jobs:
         DEBIAN_FRONTEND: noninteractive
       run: |
         sudo -E apt-get update -y
-        sudo -E apt-get install -y aggregate
+        sudo -E pip install git+https://github.com/job/aggregate6
         
     - name: Run generate script
       run: | 
