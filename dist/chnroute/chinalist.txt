@@ -13899,6 +13899,7 @@ b-fairy.com
 b-k-automation.com
 b-raymedia.com
 b.biz
+b.c2r.ts.cdn.office.net
 b01.net
 b02f0d7f3745ba7c.com
 b041e427810281.beer
@@ -30392,6 +30393,7 @@ douyongtuan.com
 douyou100.com
 douyu.com
 douyu.tv
+douyuedui.com
 douyuex.com
 douyuscdn.com
 douyutv.com
@@ -33152,7 +33154,6 @@ etccenters.com
 etcchebao.com
 etcgsx.com
 etchcb.com
-etcifk.vip
 etcifw.vip
 etcsd.com
 etcsx.com
@@ -33655,6 +33656,7 @@ f-dou.com
 f-insight.com
 f-stack.org
 f.biz
+f.c2r.ts.cdn.office.net
 f.cx
 f008.com
 f015dfc4510292.beer
@@ -34841,7 +34843,6 @@ fhfxys.com
 fhgame.com
 fhgjds.com
 fhguotai.com
-fhl05161ps.com
 fhldns.com
 fhldns.net
 fhlmotor.com
@@ -43104,6 +43105,8 @@ haimawan.com
 haimeec.com
 haimi.com
 haimian.com
+haimianbandstatic.com
+haimianyinyue.com
 haimin.net
 haimini.com
 haimosic.com
@@ -52528,7 +52531,6 @@ izaodao.com
 izazamall.com
 izb.pub
 izdatatech.com
-izenith.co
 izestchina.com
 izgfu.com
 izhailong.com
@@ -53871,7 +53873,6 @@ jieqi.com
 jieqian.co
 jieqibg.com
 jieqinwang.com
-jierengz.com
 jieri2.com
 jierili.com
 jieruchaosheng.com
@@ -61073,7 +61074,6 @@ liao98.com
 liaobagua.com
 liaocheng.cc
 liaochuo.com
-liaode.com.tw
 liaogu.com
 liaogx.com
 liaoing.com
@@ -69838,7 +69838,6 @@ nnjnwg.com
 nnjr.co
 nnjsdsoft.com
 nnjsgy.com
-nnjsypx.com
 nnjsza.com
 nnjszlsb.com
 nnjt.com
@@ -72462,7 +72461,6 @@ pengyou.com
 pengyou.net
 pengyoukan.com
 pengyuanled.com
-pengyucpa.com
 pengyuwei.net
 pengzhihui.xyz
 penhuijiqi.com
@@ -77494,7 +77492,6 @@ ribio.com
 ribolia.com
 ricequant.com
 riceyun.com
-rich-chang.com
 rich-fc.com
 rich-futures.com
 rich-healthcare.com
@@ -81100,6 +81097,7 @@ shejiyue.com
 sheketiandi.com
 shekou.com
 shelive.net
+shell.cdn.office.net
 shellpub.com
 shellsec.com
 shelter-china.com
@@ -84920,6 +84918,7 @@ staticfile.net
 staticfile.org
 statickksmg.com
 statics.cc
+statics.teams.cdn.office.net
 staticsdd.com
 staticsoe.com
 staticsoem.com
@@ -85633,6 +85632,7 @@ suqun-group.com
 surely.cool
 surerp.com
 surface.download.prss.microsoft.com
+surface.downloads.prss.microsoft.com
 surfacetreatmentgroup.com
 surfacetreatmenttechnology.com
 surfcg.com
@@ -95676,7 +95676,6 @@ whidf.com
 whidy.net
 whiee.com
 whiie-expo.com
-whimsywarpgame.cc
 whinfo.net
 whir.net
 whisperto.net
@@ -98269,6 +98268,7 @@ xcrmyy.com
 xcsc.com
 xcstuido.com
 xcsyy.com
+xcthings.com
 xctmr.com
 xcultur.com
 xcurrency.com
@@ -98351,7 +98351,6 @@ xdpipe.com
 xdpjump.com
 xdplt.com
 xdpvp.com
-xdqtech.com
 xdressy.com
 xdrig.com
 xdrtc.com
@@ -99681,6 +99680,7 @@ xinghaoyun8.com
 xinghejoy.com
 xinghengedu.com
 xingheoa.com
+xinghewanglu.com
 xinghuaport.com
 xinghuazixun.com
 xinghuo100.com
@@ -101934,7 +101934,6 @@ xyimg.net
 xyingsoft.com
 xyj.link
 xyj321.com
-xyj618.com
 xyjbglass.com
 xyjs999.com
 xyjtzz.com
@@ -107163,6 +107162,8 @@ zabxib.com
 zac1993.com
 zachina.org
 zack.asia
+zaconad.com
+zaconbs.com
 zadervice.com
 zaduonews.com
 zaecu.com
